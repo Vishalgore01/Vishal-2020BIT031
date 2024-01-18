@@ -1,0 +1,1 @@
+13) --> UPDATE Customers SET City='Mumbai' WHERE City='Delhi';

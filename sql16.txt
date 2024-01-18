@@ -1,0 +1,1 @@
+16) --> SELECT Customer_id, COUNT(ID) FROM Orders GROUP BY Customer_id ORDER BY No_Of_Items DEC LIMIT 3; 

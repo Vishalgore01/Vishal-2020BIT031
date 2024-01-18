@@ -1,0 +1,1 @@
+12) --> SELECT Customer_id, AVG(Gross_Total) FROM Orders GROUP BY Customer_id;

@@ -1,0 +1,1 @@
+14) --> DELETE * FROM Logs WHERE CURDATE()-Datetime>1;

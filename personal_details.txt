@@ -1,0 +1,11 @@
+Name: Vishal Bharat Gore
+Projects:
+1)Student Management System
+    Student details can be stored or fetched using CRUD operations
+    technology used- Django,HTML,CSS
+2)Ticketing System
+    Online Ticketing software to book tickets
+    technology used - Django,HTML,CSS
+
+Career goals- To beacome a good software engineer and a good human being.
+Interest- Programming,Sports
